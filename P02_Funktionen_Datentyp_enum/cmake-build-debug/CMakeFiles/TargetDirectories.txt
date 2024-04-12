@@ -1,0 +1,3 @@
+/home/student/snp/P02_Funktionen_Datentyp_enum/cmake-build-debug/CMakeFiles/P02_Funktionen_Datentyp_enum.dir
+/home/student/snp/P02_Funktionen_Datentyp_enum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/snp/P02_Funktionen_Datentyp_enum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
